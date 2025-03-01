@@ -1,4 +1,4 @@
-# Time.fun Monitor
+# Time.fun Monitor (Telegram Notify Bot)
 This bot monitors new tokens on time.fun and give a notification to telegram channel.
 In this telegram channel you can get token symbole and time.fun link for this token as well.
 You can go to their website with this link and buy directly. It'll be used for sniper.
