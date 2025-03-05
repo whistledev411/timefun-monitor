@@ -5,7 +5,7 @@ You can go to their website with this link and buy directly. It'll be used for s
 
 # 💬 Contact Me
 
-If you have any question or something, feel free to reach out me anytime via telegram, discord or twitter.
+If you have any question or something, feel free to reach out me anytime via telegram.
 <br>
 #### 🌹 You're always welcome 🌹
 
